@@ -1,0 +1,36 @@
+## Why?
+Inclusion of various microservices in companies.
+
+
+Challenges
+1. Modelling
+2. Troubleshooting
+3. Optimizing
+
+Three Pillar
+1. Metrics - Important to collect metrics returning to single dashboard
+2. Logs - Important to collect logs in a structured manner, identifiers from software such as userid, transactid etc.
+3. Distributed Traces - A span represents single unit of work. 
+
+OpenTelemetry 
+OpenTelemetry is a collection of tools, APis, and SDKs
+Use it to instrument, generate, collect, and export telemetry data (metrics, logs, and traces),
+to help you analyze your software's performance and behavior.
+
+Specifications
+- Expectations from SDKs
+- APIs
+
+Language SDKs
+- Core Repo - API and SDKs
+- Contrib Repo
+    - Auto instrumentations
+    - Extensions
+
+Collector
+- Recievers
+- Processors
+- Exporters
+
+
+
