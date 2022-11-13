@@ -32,5 +32,32 @@ Collector
 - Processors
 - Exporters
 
+When to use Collectors?
+- When you want to do transformation outside.
+- When you want to use 3rd Party App
 
+How to Deploy?
+- Agent
+- Gateway   
+
+Backend
+- Open Source stack
+- Commercial Solutions - https://openetelemetry.io
+- Cisco
+    - AppDynamics Cloud
+    - OpenSource (Future)
+
+Community
+- Documentation
+- Github
+- Slack
+- SIG(Special Interest Groups) Meeting
+
+[OpenTelemetry Community Demo]
+
+Local Compose / Kubernetes
+
+Otel API
+- Tracer
+- Meter
 
